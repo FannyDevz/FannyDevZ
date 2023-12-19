@@ -30,7 +30,7 @@
 
 ## 🚀 Tech Stack and Tools:
 
-<p align="left">
+<p align="center">
         <!-- HTML -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" /></a>
         <!-- CSS -->
@@ -42,7 +42,7 @@
         <!-- PHP -->
         <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" title="PHP" /></a>
         <!-- CodeIgniter -->
-        <!-- <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white" title="Codeigniter 4"/></a> -->
+        <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white" title="Codeigniter 4"/></a>
         <!-- Laravel -->
         <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" title="Laravel 10"/></a>
         <!-- React -->
@@ -65,13 +65,13 @@
 
 <div align="center">
     <a href="https://github.com/FannyDevz">
-        <img alt="Fanny's Top Languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FannyDevz&langs_count=10&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fanny's streak" width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=FannyDevz&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
     </a>
     <a href="https://github.com/FannyDevz">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fanny's streak" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FannyDevz&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
+        <img alt="Fanny's Top Languages" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FannyDevz&langs_count=10&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" />
     </a>
     <a href="https://github.com/FannyDevz">
-        <img alt="Fannyn's Github Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
+        <img alt="Fannyn's Github Stats" width="51.5%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
     </a>
 </div>
 
