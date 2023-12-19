@@ -71,7 +71,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fanny's streak" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FannyDevz&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
     </a>
     <a href="https://github.com/FannyDevz">
-        <img alt="Khoeru Roziqin's Github Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
+        <img alt="Fannyn's Github Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
     </a>
 </div>
 
