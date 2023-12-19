@@ -30,7 +30,8 @@
 
 ## 🚀 Tech Stack and Tools:
 
-<p align="center">
+
+<div align="center" width="82%">
         <!-- HTML -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" /></a>
         <!-- CSS -->
@@ -57,7 +58,7 @@
         <a href="https://www.adobe.com/sea/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" /></a>
         <!-- Photoshop -->
         <a href="https://www.adobe.com/sea/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/adobe%20photoshop-%232986cc.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" /></a>
-</p>
+</div>
 
 <br/>
 
@@ -74,9 +75,11 @@
         <img alt="Fannyn's Github Stats" width="51.5%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
     </a>
 </div>
+<div align="center" width="82%">
 
 [![Fanny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FannyDevz&bg_color=0e0e0e&color=eccb14&line=eccb14&point=e6e6e6&area_color=eccb14&area=true&radius=12&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
 <p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>
 <br/>
 
