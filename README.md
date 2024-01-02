@@ -22,7 +22,7 @@
 - 🏫 I’m currently learning at Politeknik Negeri Malang, Manajement Informatika, and **Web Development** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🖥️ See my portfolio at [fanny.dev](https://fanny.dev/)
 - 📫 you can contact via Gmail <a href="mailto:fannybagus9f@gmail.com?">fannybagus9f@gmail.com</a>
-- 🏦 I'm a Web Developer working for a PT.Jayahost in Indonesia 
+- 🏦 I'm a Web Developer working for a PT.Jayahost in Indonesia
 <!-- - 💞️ I’m looking to collaborate on to improve my skills) -->
 <!-- - 📄 Please have a look at my <a href="https://FannyDevz.showwcase.com/">resume</a> for more details about me. I'm open to feedback and suggestions!-->
 <!-- - 🧠 I'm learning NextJS and TailwindCSS. -->
@@ -66,13 +66,13 @@
 
 <div align="center">
     <a href="https://github.com/FannyDevz">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fanny's streak" width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=FannyDevz&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fanny's streak" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FannyDevz&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
     </a>
     <a href="https://github.com/FannyDevz">
-        <img alt="Fanny's Top Languages" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FannyDevz&langs_count=10&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" />
+        <img alt="Fanny's Top Languages" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FannyDevz&langs_count=10&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" />
     </a>
     <a href="https://github.com/FannyDevz">
-        <img alt="Fannyn's Github Stats" width="51.5%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
+        <img alt="Fannyn's Github Stats" width="62.5%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
     </a>
 </div>
 <div align="center" width="82%">
