@@ -114,11 +114,9 @@
             <img alt="Fannyn's Github Stats" width="62.5%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
         </a>
     </div>
-    <div align="center" width="82%">
 
 [![Fanny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FannyDevz&bg_color=0e0e0e&color=eccb14&line=eccb14&point=e6e6e6&area_color=eccb14&area=true&radius=12&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
-    </div>
 </details>
 
 [//]: # (<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>)
