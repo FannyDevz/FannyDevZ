@@ -55,6 +55,9 @@
     <a href="https://github.com/FannyDevz">
         <img alt="My Github Profile" src="https://img.shields.io/github/stars/FannyDevz?style=social" alt="GitHub Stars">
     </a>
+     <a href="https://www.codewars.com/users/FannyDevz">
+        <img alt="My Codewars Profile" src="https://www.codewars.com/users/FannyDevz/badges/small" alt="Codewars">
+    </a>
   </div>
 </header>
 
