@@ -7,26 +7,26 @@
       
 </p>
 
-[//]: # ()
-[//]: # (<a href="https://www.fanny.dev/">)
 
-[//]: # ()
-[//]: # (<picture>)
+<a href="https://www.fanny.dev/">
 
-[//]: # ()
-[//]: # (<source media="&#40;prefers-color-scheme: dark&#41;" srcset="./header-dark.svg">)
 
-[//]: # ()
-[//]: # (<source media="&#40;prefers-color-scheme: light&#41;" srcset="./header.svg" />)
+<picture>
 
-[//]: # ()
-[//]: # (<img alt="Fanny Bagus Ramadhan | Freelancer ·  Web Developer · Designer 🎨" src="./header.svg" width="100%" />)
 
-[//]: # ()
-[//]: # (</picture>)
+<source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
 
-[//]: # ()
-[//]: # (</a>)
+
+<source media="(prefers-color-scheme: light)" srcset="./header.svg" />
+
+
+<img alt="Fanny Bagus Ramadhan | Freelancer ·  Web Developer · Designer 🎨" src="./header.svg" width="100%" />
+
+
+</picture>
+
+
+</a>
 
 <header>
   <div align="center">
@@ -133,8 +133,4 @@
     </a>
 </div>
 </details>
-
-[//]: # (<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>)
-[//]: # (<br/>)
-
 
