@@ -38,13 +38,16 @@
 <header>
   <div align="center">
     <a href="https://fanny.dev">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=fanny.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%2363FCD8&label=Website&message=fanny.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://instagram.com/fanny.bagus.r">
-      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Instagram-FannyDevz-7733ff?style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
+      <img alt="My Instagram Profile" src="https://img.shields.io/badge/Instagram-FannyDevz-63FCD8?style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
+    </a>
+    <a href="https://www.linkedin.com/in/fanny-bagus-ramadhan/">
+      <img alt="My Linkedin Profile" src="https://img.shields.io/badge/Linkedin-Fanny-63FCD8?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=FannyDevz" alt="Github Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=FannyDevz&color=63FCD8" alt="Github Profile Views">
     </a>
     <a href="https://github.com/FannyDevz?tab=followers">
         <img src="https://img.shields.io/github/followers/FannyDevz?label=Followers&style=social" alt="GitHub Followers">
