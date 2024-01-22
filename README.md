@@ -124,11 +124,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FannyDevz/FannyDevz/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-<br/>
-</details>
-
-[//]: # (<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>)
-[//]: # (<br/>)
 
 ### ☕ Open Donation!
 
@@ -137,4 +132,9 @@
         <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25%" width="25%" alt="FannyDevz"/>
     </a>
 </div>
+</details>
+
+[//]: # (<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>)
+[//]: # (<br/>)
+
 
