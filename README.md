@@ -6,20 +6,26 @@
 <p align="center">
       
 </p>
-<br/>
 
+[//]: # ()
 [//]: # (<a href="https://www.fanny.dev/">)
 
-[//]: # (  <picture>)
+[//]: # ()
+[//]: # (<picture>)
 
-[//]: # (    <source media="&#40;prefers-color-scheme: dark&#41;" srcset="./header-dark.svg">)
+[//]: # ()
+[//]: # (<source media="&#40;prefers-color-scheme: dark&#41;" srcset="./header-dark.svg">)
 
-[//]: # (    <source media="&#40;prefers-color-scheme: light&#41;" srcset="./header.svg" />)
+[//]: # ()
+[//]: # (<source media="&#40;prefers-color-scheme: light&#41;" srcset="./header.svg" />)
 
-[//]: # (    <img alt="Fanny Bagus Ramadhan | Freelancer ·  Web Developer · Designer 🎨" src="./header.svg" width="100%" />)
+[//]: # ()
+[//]: # (<img alt="Fanny Bagus Ramadhan | Freelancer ·  Web Developer · Designer 🎨" src="./header.svg" width="100%" />)
 
-[//]: # (  </picture>)
+[//]: # ()
+[//]: # (</picture>)
 
+[//]: # ()
 [//]: # (</a>)
 
 <header>
@@ -115,11 +121,6 @@
     </div>
 
 [![Fanny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FannyDevz&bg_color=0e0e0e&color=eccb14&line=eccb14&point=e6e6e6&area_color=eccb14&area=true&radius=12&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
-</details>
-
-[//]: # (<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>)
-[//]: # (<br/>)
 
 ## 🐍 Eating away my contributions😭... Help!
 
@@ -130,6 +131,11 @@
 </picture>
 <br/>
 <br/>
+</details>
+
+[//]: # (<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>)
+[//]: # (<br/>)
+
 
 <div align="center">
     <a href="https://www.buymeacoffee.com/FannyDevz">
