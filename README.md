@@ -4,29 +4,66 @@
 <h3 align="center">i'm a fullstack developer, passionate about learning and collaboration, i'm currently looking for any new opportunities.</h3>
 
 <p align="center">
-        <a href="https://github.com/FannyDevz?tab=followers">
-                <img src="https://img.shields.io/github/followers/FannyDevz?label=Followers&style=social" alt="GitHub Followers">
-        </a>
-        <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-                <img src="https://komarev.com/ghpvc/?username=FannyDevz" alt="Github Profile Views">
-        </a>
-        <a href="https://github.com/FannyDevz">
-                <img src="https://img.shields.io/github/stars/FannyDevz?style=social" alt="GitHub Stars">
-        </a>
+      
 </p>
 <br/>
 
-## 🙋‍♂️ About Me
+[//]: # (<a href="https://www.fanny.dev/">)
 
-- 👀 I’m interested in web developer as a fullstack developer
-- 🏫 I’m currently learning at Politeknik Negeri Malang, Manajement Informatika, and **Web Development** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🖥️ See my portfolio at [fanny.dev](https://fanny.dev/)
-- 📫 you can contact via Gmail <a href="mailto:fannybagus9f@gmail.com?">fannybagus9f@gmail.com</a>
-- 🏦 I'm a Web Developer working for a PT.Jayahost in Indonesia
-<!-- - 💞️ I’m looking to collaborate on to improve my skills) -->
-<!-- - 📄 Please have a look at my <a href="https://FannyDevz.showwcase.com/">resume</a> for more details about me. I'm open to feedback and suggestions!-->
-<!-- - 🧠 I'm learning NextJS and TailwindCSS. -->
-<br/>
+[//]: # (  <picture>)
+
+[//]: # (    <source media="&#40;prefers-color-scheme: dark&#41;" srcset="./header-dark.svg">)
+
+[//]: # (    <source media="&#40;prefers-color-scheme: light&#41;" srcset="./header.svg" />)
+
+[//]: # (    <img alt="Fanny Bagus Ramadhan | Freelancer ·  Web Developer · Designer 🎨" src="./header.svg" width="100%" />)
+
+[//]: # (  </picture>)
+
+[//]: # (</a>)
+
+<header>
+  <div align="center">
+    <a href="https://fanny.dev">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=fanny.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+    </a>
+    <a href="https://instagram.com/fanny.bagus.r">
+      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Instagram-FannyDevz-7733ff?style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
+    </a>
+<br>
+    <a href="https://github.com/FannyDevz?tab=followers">
+        <img src="https://img.shields.io/github/followers/FannyDevz?label=Followers&style=social" alt="GitHub Followers">
+    </a>
+    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=FannyDevz" alt="Github Profile Views">
+    </a>
+    <a href="https://github.com/FannyDevz">
+        <img alt="My Github Profile" src="https://img.shields.io/github/stars/FannyDevz?style=social" alt="GitHub Stars">
+    </a>
+  </div>
+</header>
+
+[//]: # ()
+[//]: # (## 🙋‍♂️ About Me)
+
+[//]: # ()
+[//]: # (- 👀 I’m interested in web developer as a fullstack developer)
+
+[//]: # (- 🏫 I’m currently learning at Politeknik Negeri Malang, Manajement Informatika, and **Web Development** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">)
+
+[//]: # (- 🖥️ See my portfolio at [fanny.dev]&#40;https://fanny.dev/&#41;)
+
+[//]: # (- 📫 you can contact via Gmail <a href="mailto:fannybagus9f@gmail.com?">fannybagus9f@gmail.com</a>)
+
+[//]: # (- 🏦 I'm a Web Developer working for a PT.Jayahost in Indonesia)
+
+[//]: # (<!-- - 💞️ I’m looking to collaborate on to improve my skills&#41; -->)
+
+[//]: # (<!-- - 📄 Please have a look at my <a href="https://FannyDevz.showwcase.com/">resume</a> for more details about me. I'm open to feedback and suggestions!-->)
+
+[//]: # (<!-- - 🧠 I'm learning NextJS and TailwindCSS. -->)
+
+[//]: # (<br/>)
 
 ## 🚀 Tech Stack and Tools:
 
@@ -62,26 +99,30 @@
 
 <br/>
 
-## 📊 My Github Stats
 
-<div align="center">
-    <a href="https://github.com/FannyDevz">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fanny's streak" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FannyDevz&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
-    </a>
-    <a href="https://github.com/FannyDevz">
-        <img alt="Fanny's Top Languages" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FannyDevz&langs_count=10&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" />
-    </a>
-    <a href="https://github.com/FannyDevz">
-        <img alt="Fannyn's Github Stats" width="62.5%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
-    </a>
-</div>
-<div align="center" width="82%">
+[//]: # (## 📊 My Github Stats)
+<details>
+  <summary><h2>📊 My Github Stats</h2></summary>
+    <div align="center">
+        <a href="https://github.com/FannyDevz">
+            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fanny's streak" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FannyDevz&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
+        </a>
+        <a href="https://github.com/FannyDevz">
+            <img alt="Fanny's Top Languages" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FannyDevz&langs_count=10&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" />
+        </a>
+        <a href="https://github.com/FannyDevz">
+            <img alt="Fannyn's Github Stats" width="62.5%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" />
+        </a>
+    </div>
+    <div align="center" width="82%">
 
 [![Fanny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FannyDevz&bg_color=0e0e0e&color=eccb14&line=eccb14&point=e6e6e6&area_color=eccb14&area=true&radius=12&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+    </div>
+</details>
 
-</div>
-<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>
-<br/>
+[//]: # (<p align="center"><b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.</p>)
+[//]: # (<br/>)
 
 ## 🐍 Eating away my contributions😭... Help!
 
