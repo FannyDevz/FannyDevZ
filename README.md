@@ -30,12 +30,11 @@
     <a href="https://instagram.com/fanny.bagus.r">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Instagram-FannyDevz-7733ff?style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
     </a>
-<br>
-    <a href="https://github.com/FannyDevz?tab=followers">
-        <img src="https://img.shields.io/github/followers/FannyDevz?label=Followers&style=social" alt="GitHub Followers">
-    </a>
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=FannyDevz" alt="Github Profile Views">
+    </a>
+    <a href="https://github.com/FannyDevz?tab=followers">
+        <img src="https://img.shields.io/github/followers/FannyDevz?label=Followers&style=social" alt="GitHub Followers">
     </a>
     <a href="https://github.com/FannyDevz">
         <img alt="My Github Profile" src="https://img.shields.io/github/stars/FannyDevz?style=social" alt="GitHub Stars">
