@@ -3,30 +3,34 @@
 <h4 align="center">Just Web Developer.</h4>
 <h3 align="center">i'm a fullstack developer, passionate about learning and collaboration, i'm currently looking for any new opportunities.</h3>
 
-<p align="center">
-      
-</p>
 
+[//]: # ()
+[//]: # ()
+[//]: # (<a href="https://www.fanny.dev/">)
 
-<a href="https://www.fanny.dev/">
+[//]: # ()
+[//]: # ()
+[//]: # (<picture>)
 
+[//]: # ()
+[//]: # ()
+[//]: # (<source media="&#40;prefers-color-scheme: dark&#41;" srcset="./header-dark.svg">)
 
-<picture>
+[//]: # ()
+[//]: # ()
+[//]: # (<source media="&#40;prefers-color-scheme: light&#41;" srcset="./header.svg" />)
 
+[//]: # ()
+[//]: # ()
+[//]: # (<img alt="Fanny Bagus Ramadhan | Freelancer ·  Web Developer · Designer 🎨" src="./header.svg" width="100%" />)
 
-<source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+[//]: # ()
+[//]: # ()
+[//]: # (</picture>)
 
-
-<source media="(prefers-color-scheme: light)" srcset="./header.svg" />
-
-
-<img alt="Fanny Bagus Ramadhan | Freelancer ·  Web Developer · Designer 🎨" src="./header.svg" width="100%" />
-
-
-</picture>
-
-
-</a>
+[//]: # ()
+[//]: # ()
+[//]: # (</a>)
 
 <header>
   <div align="center">
