@@ -46,11 +46,11 @@
     <a href="https://www.linkedin.com/in/fanny-bagus-ramadhan/">
       <img alt="My Linkedin Profile" src="https://img.shields.io/badge/Linkedin-Fanny-63FCD8?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
     </a>
-    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=FannyDevz&color=63FCD8" alt="Github Profile Views">
-    </a>
     <a href="https://github.com/FannyDevz?tab=followers">
         <img src="https://img.shields.io/github/followers/FannyDevz?label=Followers&style=social" alt="GitHub Followers">
+    </a> 
+    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=FannyDevz" alt="Github Profile Views">
     </a>
     <a href="https://github.com/FannyDevz">
         <img alt="My Github Profile" src="https://img.shields.io/github/stars/FannyDevz?style=social" alt="GitHub Stars">
