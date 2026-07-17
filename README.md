@@ -122,9 +122,9 @@
 <!-- <a href="https://github.com/FannyDevz">
     <img alt="Fanny's Top Languages" width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FannyDevz&langs_count=10&count_private=false&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e&title_color=63FCD8" />
 </a> -->
-<a href="https://github.com/FannyDevz">
+<!-- <a href="https://github.com/FannyDevz">
     <img alt="Fannyn's Github Stats" width="62.5%" src="https://github-readme-stats.vercel.app/api?username=FannyDevz&show_icons=true&count_private=true&title_color=63FCD8&text_color=ffffff&icon_color=63FCD8&hide_border=true&bg_color=0e0e0e" />
-</a>
+</a> -->
 </div>
 
 [![Fanny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FannyDevz&bg_color=0e0e0e&color=63FCD8&line=63FCD8&point=63FC0F&area_color=63FCD8&area=true&radius=12&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
