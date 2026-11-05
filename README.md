@@ -71,7 +71,7 @@
 
 - 👀 I’m interested in web developer as a fullstack developer
 - 🖥️ See my portfolio at [fanny.dev](https://fanny.dev/)
-- 📫 you can contact via Gmail <a href="mailto:fannybagus9f@gmail.com?">fannybagus9f@gmail.com</a>
+- 📫 you can contact via Gmail <a href="mailto:me@fanny.dev?">me@fanny.dev</a>
 - 🏦 I'm a Web Developer working for a <a href="https://digitalku.com">Digitalku</a> in Indonesia
 <!-- - 💞️ I’m looking to collaborate on to improve my skills) -->
 <!-- - 📄 Please have a look at my <a href="https://FannyDevz.showwcase.com/">resume</a> for more details about me. I'm open to feedback and suggestions!-->
