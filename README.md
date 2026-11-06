@@ -43,19 +43,6 @@ Hi, I'm **Fanny Bagus Ramadhan**, a fullstack developer and content creator from
 - 🖥️ Portfolio, blog, and notes at [fanny.dev](https://www.fanny.dev/), with my [resume](https://www.fanny.dev/resume/) too
 - 📫 Say hello at [me@fanny.dev](mailto:me@fanny.dev)
 
-## 🛠️ Featured Work
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [Web Host Manager](https://www.fanny.dev/projects/web-host-manager/) | Hosting management system and WHMCS alternative, integrated with cPanel, Proxmox, LXD, domain registrars, and payment gateways | Laravel, React |
-| [Chatku](https://www.fanny.dev/projects/chat-app-multiapps/) | Omnichannel support chat that unifies WhatsApp, Telegram, Instagram, and web chat in one real-time dashboard | Fastify, Next.js, Socket.IO, Redis |
-| [Proxmox Management Server](https://www.fanny.dev/projects/proxmox-management-server/) | Panel managing 150+ Proxmox nodes and 3,000+ VMs and containers | AdonisJS, React, Redis |
-| [Watch Store](https://github.com/FannyDevz/watch-store) | Casio watch store with an Apple Watch-inspired storefront, Midtrans checkout, and an admin panel | Laravel, Inertia, React |
-| [Mac Service Admin](https://github.com/FannyDevz/mac-service-admin) | Local dashboard for a macOS dev environment, with a real terminal in the browser | Go, JavaScript, xterm.js |
-| [One Day One Code](https://github.com/FannyDevz/fannydevz.github.io) | Daily web experiments: games, education labs, tools, and landing pages | HTML, CSS, JavaScript |
-
-See everything at [fanny.dev/projects](https://www.fanny.dev/projects/).
-
 ## 🚀 Tech Stack and Tools
 
 <div align="center">
