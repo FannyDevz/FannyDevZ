@@ -91,8 +91,6 @@ See everything at [fanny.dev/projects](https://www.fanny.dev/projects/).
   </a>
 </div>
 
-[![Fanny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FannyDevz&bg_color=0e0e0e&color=63FCD8&line=63FCD8&point=63FC0F&area_color=63FCD8&area=true&radius=12&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 🐍 Eating away my contributions😭... Help!
 
 <picture>
